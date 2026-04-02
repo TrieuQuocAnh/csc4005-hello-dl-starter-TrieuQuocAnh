@@ -66,11 +66,13 @@ Sinh viên nộp lại toàn bộ project sau khi đã chạy xong, bao gồm:
 - ảnh chụp màn hình terminal hoặc output thành công
 
 ## Sinh viên cần cập nhật README này
-- Họ tên:
-- MSSV:
-- Lớp:
-- Hệ điều hành:
-- Python version:
-- Torch version:
-- Thiết bị chạy: CPU / GPU
+- Họ tên: Triệu Quốc Anh
+- MSSV: 1671040002
+- Lớp: KHMT 16-01
+- Hệ điều hành: Windows 10
+- Python version: 3.10.20 
+- Torch version: 2.11.0+cpu
+- Thiết bị chạy: AMD Ryzen 5 5500U/ GTX 1650
 - Ghi chú lỗi gặp phải khi setup (nếu có):
+
+![alt text](image.png)

@@ -73,6 +73,5 @@ Sinh viên nộp lại toàn bộ project sau khi đã chạy xong, bao gồm:
 - Python version: 3.10.20 
 - Torch version: 2.11.0+cpu
 - Thiết bị chạy: AMD Ryzen 5 5500U/ GTX 1650
-- Ghi chú lỗi gặp phải khi setup (nếu có):
 
 ![alt text](image.png)
